@@ -22,20 +22,182 @@
     </item>
     
     <item>
+      <title>round-ups</title>
+      <link>http://localhost:1313/categories/round-ups/</link>
+      <pubDate>Mon, 22 May 2023 11:41:28 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/round-ups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>food habits</title>
+      <link>http://localhost:1313/categories/food-habits/</link>
+      <pubDate>Fri, 19 May 2023 10:56:37 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/food-habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>birds</title>
       <link>http://localhost:1313/categories/birds/</link>
-      <pubDate>Thu, 11 May 2023 14:24:45 -0700</pubDate>
+      <pubDate>Wed, 17 May 2023 10:38:08 -0700</pubDate>
       
       <guid>http://localhost:1313/categories/birds/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>book reviews</title>
+      <link>http://localhost:1313/categories/book-reviews/</link>
+      <pubDate>Thu, 11 May 2023 14:27:58 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/book-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obituaries</title>
+      <link>http://localhost:1313/categories/obituaries/</link>
+      <pubDate>Thu, 11 May 2023 14:27:48 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/obituaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archives</title>
+      <link>http://localhost:1313/categories/archives/</link>
+      <pubDate>Thu, 11 May 2023 14:27:40 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reports</title>
+      <link>http://localhost:1313/categories/reports/</link>
+      <pubDate>Thu, 11 May 2023 14:26:30 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>annual cycles</title>
+      <link>http://localhost:1313/categories/annual-cycles/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/annual-cycles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>breeding</title>
       <link>http://localhost:1313/categories/breeding/</link>
-      <pubDate>Thu, 11 May 2023 14:24:45 -0700</pubDate>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
       
       <guid>http://localhost:1313/categories/breeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conservation</title>
+      <link>http://localhost:1313/categories/conservation/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eggs</title>
+      <link>http://localhost:1313/categories/eggs/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/eggs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>featured species</title>
+      <link>http://localhost:1313/categories/featured-species/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/featured-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>habitats</title>
+      <link>http://localhost:1313/categories/habitats/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/habitats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human disturbance</title>
+      <link>http://localhost:1313/categories/human-disturbance/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/human-disturbance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nests</title>
+      <link>http://localhost:1313/categories/nests/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/nests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>occurrences</title>
+      <link>http://localhost:1313/categories/occurrences/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/occurrences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species introduction</title>
+      <link>http://localhost:1313/categories/species-introduction/</link>
+      <pubDate>Thu, 11 May 2023 14:25:46 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/species-introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>occurences</title>
+      <link>http://localhost:1313/categories/occurences/</link>
+      <pubDate>Thu, 11 May 2023 14:25:23 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/occurences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amphibians</title>
+      <link>http://localhost:1313/categories/amphibians/</link>
+      <pubDate>Thu, 11 May 2023 13:55:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/amphibians/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>articles</title>
+      <link>http://localhost:1313/categories/articles/</link>
+      <pubDate>Wed, 26 Apr 2023 21:26:43 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/articles/</guid>
       <description></description>
     </item>
     

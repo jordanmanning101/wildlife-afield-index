@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>michael i. preston on Wildlife Afield Index</title>
+    <link>http://localhost:1313/tags/michael-i.-preston/</link>
+    <description>Recent content in michael i. preston on Wildlife Afield Index</description>
+    <image>
+      <title>Wildlife Afield Index</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 May 2023 14:26:45 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/michael-i.-preston/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>British Columbia Round-Up</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/britishcolumbiaroundup/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/britishcolumbiaroundup/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Report of the Wildlife Data Centre - 1 June to 30 June 2008</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/wildlifedatacentrereportjune2008/</link>
+      <pubDate>Thu, 11 May 2023 14:26:30 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/wildlifedatacentrereportjune2008/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Occurence of the Rock Wren on Vancouver Island and Other Islands in the Strait of Georgia</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/occurenceoftherockwren/</link>
+      <pubDate>Thu, 11 May 2023 14:25:23 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/occurenceoftherockwren/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>From the Editor - Wildlife Afield - An Introduction</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/fromtheeditorpreston/</link>
+      <pubDate>Wed, 26 Apr 2023 21:26:43 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/fromtheeditorpreston/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,13 +11,202 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 May 2023 11:22:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 10:56:37 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>http://localhost:1313/tags/first/</link>
-      <pubDate>Thu, 18 May 2023 11:22:00 -0700</pubDate>
+      <title>barn owl</title>
+      <link>http://localhost:1313/tags/barn-owl/</link>
+      <pubDate>Fri, 19 May 2023 10:56:37 -0700</pubDate>
       
-      <guid>http://localhost:1313/tags/first/</guid>
+      <guid>http://localhost:1313/tags/barn-owl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plovers</title>
+      <link>http://localhost:1313/tags/plovers/</link>
+      <pubDate>Wed, 17 May 2023 10:38:08 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/plovers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semipalmated plover</title>
+      <link>http://localhost:1313/tags/semipalmated-plover/</link>
+      <pubDate>Wed, 17 May 2023 10:38:08 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/semipalmated-plover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chris siddle</title>
+      <link>http://localhost:1313/tags/chris-siddle/</link>
+      <pubDate>Thu, 11 May 2023 14:27:58 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/chris-siddle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coeur d&#39;alene salamander</title>
+      <link>http://localhost:1313/tags/coeur-dalene-salamander/</link>
+      <pubDate>Thu, 11 May 2023 14:27:40 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/coeur-dalene-salamander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evening grosbeak</title>
+      <link>http://localhost:1313/tags/evening-grosbeak/</link>
+      <pubDate>Thu, 11 May 2023 14:27:40 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/evening-grosbeak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ospreys</title>
+      <link>http://localhost:1313/tags/ospreys/</link>
+      <pubDate>Thu, 11 May 2023 14:27:40 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/ospreys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>common redpoll</title>
+      <link>http://localhost:1313/tags/common-redpoll/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/common-redpoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crested auklet</title>
+      <link>http://localhost:1313/tags/crested-auklet/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/crested-auklet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fred l. bunnell</title>
+      <link>http://localhost:1313/tags/fred-l.-bunnell/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/fred-l.-bunnell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linda m. van damme</title>
+      <link>http://localhost:1313/tags/linda-m.-van-damme/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/linda-m.-van-damme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michael i. preston</title>
+      <link>http://localhost:1313/tags/michael-i.-preston/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/michael-i.-preston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>northern shrike</title>
+      <link>http://localhost:1313/tags/northern-shrike/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/northern-shrike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rufous hummingbird</title>
+      <link>http://localhost:1313/tags/rufous-hummingbird/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/rufous-hummingbird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>steller&#39;s jay</title>
+      <link>http://localhost:1313/tags/stellers-jay/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/stellers-jay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>california quail</title>
+      <link>http://localhost:1313/tags/california-quail/</link>
+      <pubDate>Thu, 11 May 2023 14:25:46 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/california-quail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>queen charlotte islands</title>
+      <link>http://localhost:1313/tags/queen-charlotte-islands/</link>
+      <pubDate>Thu, 11 May 2023 14:25:46 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/queen-charlotte-islands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r. wayne campbell</title>
+      <link>http://localhost:1313/tags/r.-wayne-campbell/</link>
+      <pubDate>Thu, 11 May 2023 14:25:46 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/r.-wayne-campbell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rock wren</title>
+      <link>http://localhost:1313/tags/rock-wren/</link>
+      <pubDate>Thu, 11 May 2023 14:25:23 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/rock-wren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vancouver island</title>
+      <link>http://localhost:1313/tags/vancouver-island/</link>
+      <pubDate>Thu, 11 May 2023 14:25:23 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/vancouver-island/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chetwynd</title>
+      <link>http://localhost:1313/tags/chetwynd/</link>
+      <pubDate>Thu, 11 May 2023 14:25:11 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/chetwynd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upland sandpiper</title>
+      <link>http://localhost:1313/tags/upland-sandpiper/</link>
+      <pubDate>Thu, 11 May 2023 14:25:11 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/upland-sandpiper/</guid>
       <description></description>
     </item>
     
@@ -45,6 +234,150 @@
       <pubDate>Thu, 11 May 2023 14:24:45 -0700</pubDate>
       
       <guid>http://localhost:1313/tags/peace-river/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glenn r. ryder</title>
+      <link>http://localhost:1313/tags/glenn-r.-ryder/</link>
+      <pubDate>Thu, 11 May 2023 13:55:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/glenn-r.-ryder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salamanders</title>
+      <link>http://localhost:1313/tags/salamanders/</link>
+      <pubDate>Thu, 11 May 2023 13:55:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/salamanders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sunshine coast</title>
+      <link>http://localhost:1313/tags/sunshine-coast/</link>
+      <pubDate>Thu, 11 May 2023 13:55:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/sunshine-coast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trout lake</title>
+      <link>http://localhost:1313/tags/trout-lake/</link>
+      <pubDate>Thu, 11 May 2023 13:55:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/trout-lake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wandering salamander</title>
+      <link>http://localhost:1313/tags/wandering-salamander/</link>
+      <pubDate>Thu, 11 May 2023 13:55:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/wandering-salamander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cariboo-chilcotin</title>
+      <link>http://localhost:1313/tags/cariboo-chilcotin/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/cariboo-chilcotin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creston valley</title>
+      <link>http://localhost:1313/tags/creston-valley/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/creston-valley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fort st. john</title>
+      <link>http://localhost:1313/tags/fort-st.-john/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/fort-st.-john/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fraser river valley</title>
+      <link>http://localhost:1313/tags/fraser-river-valley/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/fraser-river-valley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kamloops</title>
+      <link>http://localhost:1313/tags/kamloops/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/kamloops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mark nyhof</title>
+      <link>http://localhost:1313/tags/mark-nyhof/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/mark-nyhof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meadow vole</title>
+      <link>http://localhost:1313/tags/meadow-vole/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/meadow-vole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>okanagan valley</title>
+      <link>http://localhost:1313/tags/okanagan-valley/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/okanagan-valley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osoyoos lake</title>
+      <link>http://localhost:1313/tags/osoyoos-lake/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/osoyoos-lake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>southern interior</title>
+      <link>http://localhost:1313/tags/southern-interior/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/southern-interior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>from the editor</title>
+      <link>http://localhost:1313/tags/from-the-editor/</link>
+      <pubDate>Wed, 26 Apr 2023 21:26:43 -0700</pubDate>
+      
+      <guid>http://localhost:1313/tags/from-the-editor/</guid>
       <description></description>
     </item>
     

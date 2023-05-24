@@ -22,11 +22,119 @@
     </item>
     
     <item>
+      <title>British Columbia Round-Ups</title>
+      <link>http://localhost:1313/posts/roundups/</link>
+      <pubDate>Mon, 22 May 2023 11:41:28 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/roundups/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Barn Owl</title>
+      <link>http://localhost:1313/posts/wildlife-categories/birds/owlbarn/</link>
+      <pubDate>Fri, 19 May 2023 10:56:37 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/wildlife-categories/birds/owlbarn/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
       <title>Authors</title>
       <link>http://localhost:1313/posts/authors/</link>
       <pubDate>Thu, 18 May 2023 11:22:00 -0700</pubDate>
       
       <guid>http://localhost:1313/posts/authors/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Semipalmated Plover</title>
+      <link>http://localhost:1313/posts/wildlife-categories/birds/ploversemipalmated/</link>
+      <pubDate>Wed, 17 May 2023 10:38:08 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/wildlife-categories/birds/ploversemipalmated/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Publications of Interest</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/publicationsofinterest/</link>
+      <pubDate>Thu, 11 May 2023 14:27:58 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/publicationsofinterest/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Final Flight</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/finalflight/</link>
+      <pubDate>Thu, 11 May 2023 14:27:48 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/finalflight/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>From the Archives</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/fromthearchives/</link>
+      <pubDate>Thu, 11 May 2023 14:27:40 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/fromthearchives/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>British Columbia Round-Up</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/britishcolumbiaroundup/</link>
+      <pubDate>Thu, 11 May 2023 14:26:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/britishcolumbiaroundup/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Report of the Wildlife Data Centre - 1 June to 30 June 2008</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/wildlifedatacentrereportjune2008/</link>
+      <pubDate>Thu, 11 May 2023 14:26:30 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/wildlifedatacentrereportjune2008/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Featured Species - Semipalmated Plover</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/featuredspeciessemipalmatedplover/</link>
+      <pubDate>Thu, 11 May 2023 14:26:06 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/featuredspeciessemipalmatedplover/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Unsuccessful Introduction of the California Quail to the Queen Charlotte Islands</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/unsuccessfulintroductionofcaliforniaquail/</link>
+      <pubDate>Thu, 11 May 2023 14:25:46 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/unsuccessfulintroductionofcaliforniaquail/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Occurence of the Rock Wren on Vancouver Island and Other Islands in the Strait of Georgia</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/occurenceoftherockwren/</link>
+      <pubDate>Thu, 11 May 2023 14:25:23 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/occurenceoftherockwren/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Upland Sandpiper Breeding near Chetwynd, British Columbia</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/uplandsandpiperbreeding/</link>
+      <pubDate>Thu, 11 May 2023 14:25:11 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/uplandsandpiperbreeding/</guid>
       <description>Desc Text.</description>
     </item>
     
@@ -40,6 +148,60 @@
     </item>
     
     <item>
+      <title>First Occurence of Wandering Salamander on the Sunshine Coast of British Columbia</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/firstoccurenceofwanderingsalamander/</link>
+      <pubDate>Thu, 11 May 2023 13:55:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/firstoccurenceofwanderingsalamander/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Food Habits of the Barn Owl in the Southern Interior of British Columbia</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/foodhabitsofthebarnowl/</link>
+      <pubDate>Wed, 26 Apr 2023 21:49:32 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/foodhabitsofthebarnowl/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>From the Editor - Wildlife Afield - An Introduction</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/fromtheeditorpreston/</link>
+      <pubDate>Wed, 26 Apr 2023 21:26:43 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/fromtheeditorpreston/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Wildlife Afield - Volume 1, Number 1</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/wa1-1/</link>
+      <pubDate>Wed, 26 Apr 2023 21:08:51 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/wa1-1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Censuses</title>
+      <link>http://localhost:1313/posts/censuses/</link>
+      <pubDate>Fri, 21 Apr 2023 10:53:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/censuses/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Insects</title>
+      <link>http://localhost:1313/posts/insects/</link>
+      <pubDate>Thu, 20 Apr 2023 13:27:08 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/insects/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
       <title>Birds</title>
       <link>http://localhost:1313/posts/birdcategories/</link>
       <pubDate>Thu, 20 Apr 2023 13:25:54 -0700</pubDate>
@@ -49,11 +211,29 @@
     </item>
     
     <item>
+      <title>Regions</title>
+      <link>http://localhost:1313/posts/regions/</link>
+      <pubDate>Mon, 17 Apr 2023 12:20:17 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/regions/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
       <title>Wildlife Categories</title>
       <link>http://localhost:1313/posts/wildlifecategories/</link>
       <pubDate>Mon, 17 Apr 2023 12:19:58 -0700</pubDate>
       
       <guid>http://localhost:1313/posts/wildlifecategories/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Issues</title>
+      <link>http://localhost:1313/posts/issues/</link>
+      <pubDate>Mon, 17 Apr 2023 12:19:44 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/issues/</guid>
       <description>Desc Text.</description>
     </item>
     
