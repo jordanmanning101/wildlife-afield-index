@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>doug brown on Wildlife Afield Index</title>
+    <link>http://localhost:1313/tags/doug-brown/</link>
+    <description>Recent content in doug brown on Wildlife Afield Index</description>
+    <image>
+      <title>Wildlife Afield Index</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 May 2023 14:24:45 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/doug-brown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dusky Flycatcher Breeding in the Peace River Region of British Columbia</title>
+      <link>http://localhost:1313/posts/articles/wa1-1/duskyflycatcherbreeding/</link>
+      <pubDate>Thu, 11 May 2023 14:24:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/articles/wa1-1/duskyflycatcherbreeding/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

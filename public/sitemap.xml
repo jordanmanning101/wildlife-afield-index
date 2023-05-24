@@ -2,15 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2023-05-24T11:38:48-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/endmatter/</loc>
+    <lastmod>2023-05-24T11:38:48-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/articles/wa1-1/endmatterwa1-1/</loc>
+    <lastmod>2023-05-24T11:38:48-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-05-24T11:38:48-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/authors/</loc>
+    <lastmod>2023-05-18T11:22:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-05-18T11:22:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-05-18T11:22:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/birds/</loc>
+    <lastmod>2023-05-11T14:24:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/breeding/</loc>
+    <lastmod>2023-05-11T14:24:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/doug-brown/</loc>
+    <lastmod>2023-05-11T14:24:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dusky-flycatcher/</loc>
+    <lastmod>2023-05-11T14:24:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/articles/wa1-1/duskyflycatcherbreeding/</loc>
+    <lastmod>2023-05-11T14:24:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/peace-river/</loc>
+    <lastmod>2023-05-11T14:24:45-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/birdcategories/</loc>
+    <lastmod>2023-04-20T13:25:54-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/wildlifecategories/</loc>
+    <lastmod>2023-04-17T12:19:58-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bookreviews/</loc>
+    <lastmod>2023-04-17T12:00:43-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

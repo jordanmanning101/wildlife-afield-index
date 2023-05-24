@@ -9,6 +9,35 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 May 2023 11:38:48 -0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>endmatter</title>
+      <link>http://localhost:1313/categories/endmatter/</link>
+      <pubDate>Wed, 24 May 2023 11:38:48 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/endmatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>birds</title>
+      <link>http://localhost:1313/categories/birds/</link>
+      <pubDate>Thu, 11 May 2023 14:24:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breeding</title>
+      <link>http://localhost:1313/categories/breeding/</link>
+      <pubDate>Thu, 11 May 2023 14:24:45 -0700</pubDate>
+      
+      <guid>http://localhost:1313/categories/breeding/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
