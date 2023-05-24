@@ -8,6 +8,33 @@ tags:
 - evening grosbeak
 - coeur d'alene salamander
 - ospreys
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Desc Text."
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true 
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: "<image path/url>" 
+    alt: "<alt text>" 
+    caption: "<text>" 
+    relative: false
+    hidden: true
+editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" 
+    appendFilePath: true 
 ---
 
 **179 years ago:** Henry Schoolcraft, who collected the first specimen of the Evening Grosbeak, believed that the bird sang only in the evenings. In 1825 he passed this information onto William Cooper, at the Lyceum of Natural History of New York, who named the species *Fringilla vespertina* (now *Coccothraustes vespertinus*) or “finch of the evening.” Although we know that the Evening Grosbeak does not only sing in the evenings the misnomer persists today. 
