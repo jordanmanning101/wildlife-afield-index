@@ -11,6 +11,7 @@ tags:
 - sunshine coast
 - glenn r. ryder
 - r. wayne campbell
+- trout lake
 ---
 
 *Glenn R. Ryder and R. Wayne Campbell*
