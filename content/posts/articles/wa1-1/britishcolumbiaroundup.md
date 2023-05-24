@@ -4,6 +4,14 @@ date: 2023-05-11T14:26:45-07:00
 draft: true
 categories:
 - round-ups
+tags:
+- northern shrike
+- rufous hummingbird
+- osprey
+- crested auklet
+- fred l. bunnell
+- michael i. preston
+- linda m. van damme
 ---
 
 **Field Notes and Caring People**
