@@ -8,6 +8,7 @@ categories:
 tags:
 - california quail
 - queen charlotte islands
+- r. wayne campbell
 ---
 
 *R. Wayne Campbell*

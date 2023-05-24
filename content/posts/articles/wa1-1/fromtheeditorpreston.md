@@ -2,8 +2,11 @@
 title: "From the Editor - Wildlife Afield - An Introduction"
 date: 2023-04-26T21:26:43-07:00
 draft: true
-tags: ["from the editor"]
-categories: ["articles"]
+tags: 
+- from the editor
+- michael i. preston
+categories: 
+- articles
 ---
 
 Welcome to Wildlife Afield, the bi-annual journal of the Biodiversity Centre for Wildlife Studies. 

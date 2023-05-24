@@ -7,7 +7,7 @@ categories:
 tags:
 - northern shrike
 - rufous hummingbird
-- osprey
+- ospreys
 - crested auklet
 - fred l. bunnell
 - michael i. preston

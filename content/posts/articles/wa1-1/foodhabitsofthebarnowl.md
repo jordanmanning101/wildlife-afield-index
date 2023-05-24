@@ -8,6 +8,8 @@ categories:
 tags:
   - barn owl
   - southern interior
+  - linda m. van damme
+  - mark nyhof
 ---
 
 *Linda M. Van Damme and Mark Nyhof*

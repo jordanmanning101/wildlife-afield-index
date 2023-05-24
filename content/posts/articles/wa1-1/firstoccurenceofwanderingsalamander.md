@@ -9,6 +9,8 @@ tags:
 - wandering salamander
 - salamanders
 - sunshine coast
+- glenn r. ryder
+- r. wayne campbell
 ---
 
 *Glenn R. Ryder and R. Wayne Campbell*
