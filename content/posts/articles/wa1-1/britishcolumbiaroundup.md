@@ -12,6 +12,9 @@ tags:
 - fred l. bunnell
 - michael i. preston
 - linda m. van damme
+- steller's jay
+- common redpoll
+- evening grosbeak
 ---
 
 **Field Notes and Caring People**

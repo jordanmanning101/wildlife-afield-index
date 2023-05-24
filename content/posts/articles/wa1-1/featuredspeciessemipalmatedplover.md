@@ -5,6 +5,14 @@ draft: true
 categories:
 - birds
 - featured species
+- habitats
+- occurrences
+- breeding
+- annual cycles
+- nests
+- eggs
+- conservation
+- human disturbance
 tags: 
 - plovers
 - semipalmated plover

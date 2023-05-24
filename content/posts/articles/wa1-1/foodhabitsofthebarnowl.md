@@ -10,6 +10,14 @@ tags:
   - southern interior
   - linda m. van damme
   - mark nyhof
+  - cariboo-chilcotin
+  - kamloops
+  - fort st. john
+  - fraser river valley
+  - okanagan valley
+  - meadow vole
+  - osoyoos lake
+  - creston valley
 ---
 
 *Linda M. Van Damme and Mark Nyhof*
