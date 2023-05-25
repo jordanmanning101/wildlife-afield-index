@@ -46,6 +46,8 @@ Authors can submit original manuscripts for consideration of publication in **Wi
 * [Authors]({{< ref "/authors" >}})
 * [Book Reviews]({{< ref "/bookreviews" >}})
 * [British Columbia Round-Ups]({{< ref "/roundups" >}})
+* [Contributions, Gifts, and Donations]({{< ref "/contributions" >}})
+* [Databases]({{< ref "/databases" >}})
 * [Issues]({{< ref "/issues" >}})
 * [Regions]({{< ref "/regions" >}})
 * [Wildlife Categories]({{< ref "/wildlifecategories" >}})
