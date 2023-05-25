@@ -32,4 +32,23 @@ editPost:
 ---
 
 * [Plover, Semipalmated]({{< ref "/ploversemipalmated.md" >}} "Plover, Semipalmated")
+* [Owl, Barn]({{< ref "/owlbarn.md" >}})
+* [Northern Shrike]({{< ref "/northernshrike.md" >}})
 
+Acorn Woodpecker [1(1): P 19];
+American Dusky Flycatcher [1(1): p. 6-7];
+Barn Owl [1(1): p. 3-5];
+Clark’s Nutcracker [1(1): p. 19];
+Clay-colored Sparrow [1(1): p. 19];
+Crested Auklet [1(1): p. 27-28];
+Green-tailed Towhee [1(1): p. 19];
+Herring Gull [1(1): p. 19];
+Northern Shrike [1(1): p. 26-27];
+Osprey [1(1): p. 27];
+Rock Wren [1(1): p. 8-9];
+Rufous Hummingbird [1(1): p. 26];
+Semipalmated Plover [1(1): p. 10-16];
+
+Spotted Owl [1(1): p. 19];
+Upland Sandpiper [1(1): p. 7-8];
+Wild Turkey [1(1): p. 19];

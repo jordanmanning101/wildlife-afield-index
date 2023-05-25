@@ -25,8 +25,8 @@ caption: "<text>"
 relative: false
 hidden: true
 editPost:
-URL: "https://github.com/<path_to_repo>/content"
 Text: "Suggest Changes" 
 appendFilePath: true 
 ---
+
 

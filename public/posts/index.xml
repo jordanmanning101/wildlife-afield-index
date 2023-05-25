@@ -11,7 +11,52 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 May 2023 11:38:48 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 11:02:35 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark-eyed (Oregon) Junco</title>
+      <link>http://localhost:1313/posts/wildlife-categories/birds/juncodarkeyedoregon/</link>
+      <pubDate>Thu, 25 May 2023 11:02:35 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/wildlife-categories/birds/juncodarkeyedoregon/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Northernshrike</title>
+      <link>http://localhost:1313/posts/wildlife-categories/birds/northernshrike/</link>
+      <pubDate>Thu, 25 May 2023 10:52:24 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/wildlife-categories/birds/northernshrike/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Obituaries</title>
+      <link>http://localhost:1313/posts/obituaries/</link>
+      <pubDate>Thu, 25 May 2023 10:47:54 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/obituaries/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>http://localhost:1313/posts/databases/</link>
+      <pubDate>Thu, 25 May 2023 10:34:43 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/databases/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Contributions, Gifts, and Donations</title>
+      <link>http://localhost:1313/posts/contributions/</link>
+      <pubDate>Thu, 25 May 2023 10:31:15 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/contributions/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>Endmatter WA 1-1</title>
       <link>http://localhost:1313/posts/articles/wa1-1/endmatterwa1-1/</link>

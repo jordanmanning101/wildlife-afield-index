@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/wildlife-categories/birds/juncodarkeyedoregon/</loc>
+    <lastmod>2023-05-25T11:02:35-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-05-25T11:02:35-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/wildlife-categories/birds/northernshrike/</loc>
+    <lastmod>2023-05-25T10:52:24-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/obituaries/</loc>
+    <lastmod>2023-05-25T10:47:54-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/databases/</loc>
+    <lastmod>2023-05-25T10:34:43-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/contributions/</loc>
+    <lastmod>2023-05-25T10:31:15-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-05-24T11:38:48-07:00</lastmod>
   </url><url>
@@ -9,9 +27,6 @@
     <lastmod>2023-05-24T11:38:48-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/articles/wa1-1/endmatterwa1-1/</loc>
-    <lastmod>2023-05-24T11:38:48-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-05-24T11:38:48-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/roundups/</loc>

@@ -45,3 +45,20 @@ editPost:
     * [[1(1): p.14]]({{< ref "/featuredspeciessemipalmatedplover" >}})
 * Lifespan
     * [[1(1): p.14]]({{< ref "/featuredspeciessemipalmatedplover" >}})
+
+### Conservation and Management
+* Human Threats
+    * [[1(1): p. 14-15]]({{< ref "/featuredspeciessemipalmatedplover" >}})
+* Other Threats
+    * [[1(1): p. 15]]({{< ref "/featuredspeciessemipalmatedplover" >}})
+* Scientific Collecting
+    * [[1(1): p. 14-15]]({{< ref "/featuredspeciessemipalmatedplover" >}})
+
+### Distribution
+* [[1(1): p. 11-13]]({{< ref "/featuredspeciessemipalmatedplover" >}})
+
+### Habitat
+* [[1(1): p. 13]]({{< ref "/featuredspeciessemipalmatedplover" >}})
+
+### Populations
+* [[1(1): p. 11-12]]({{< ref "/featuredspeciessemipalmatedplover" >}})
