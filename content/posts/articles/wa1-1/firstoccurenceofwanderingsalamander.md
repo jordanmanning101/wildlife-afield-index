@@ -17,7 +17,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true 
 disableShare: false
