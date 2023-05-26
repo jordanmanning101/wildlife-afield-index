@@ -30,4 +30,5 @@ editPost:
     appendFilePath: true 
 ---
 
-Wildlife Afield Book Reviews
+* Issue 1, Volume 1
+    * [Raptors field guide, flight calls land birds, and California Condor conservation]({{< ref "/publicationsofinterest" >}})
