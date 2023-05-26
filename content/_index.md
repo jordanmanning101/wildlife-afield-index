@@ -18,11 +18,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" 
+    image: "/static/img/bcws_logo.jpg" 
     alt: "<alt text>" 
     caption: "<text>" 
-    relative: false
-    hidden: true
+    relative: true
+    hidden: false
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" 
