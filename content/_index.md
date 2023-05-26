@@ -6,7 +6,6 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true 
 disableShare: false
@@ -50,6 +49,7 @@ Authors can submit original manuscripts for consideration of publication in **Wi
 * [Databases]({{< ref "/databases" >}})
 * [Issues]({{< ref "/issues" >}})
 * [Regions]({{< ref "/regions" >}})
+* [Wildlife Alerts]({{< ref "/wildlifealerts" >}})
 * [Wildlife Categories]({{< ref "/wildlifecategories" >}})
 
 
