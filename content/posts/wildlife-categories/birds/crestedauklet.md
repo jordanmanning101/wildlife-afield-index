@@ -1,5 +1,5 @@
 ---
-title: "Crestedauklet"
+title: "Crested Auklet"
 date: 2023-05-25T11:42:32-07:00
 showToc: true
 TocOpen: false

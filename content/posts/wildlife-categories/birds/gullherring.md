@@ -1,5 +1,5 @@
 ---
-title: "Gullherring"
+title: "Herring Gull"
 date: 2023-05-25T11:42:53-07:00
 showToc: true
 TocOpen: false

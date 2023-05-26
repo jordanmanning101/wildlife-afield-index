@@ -1,5 +1,5 @@
 ---
-title: "Wanderingsalamander"
+title: "Wandering Salamander"
 date: 2023-05-25T11:41:02-07:00
 showToc: true
 TocOpen: false

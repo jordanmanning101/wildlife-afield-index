@@ -1,5 +1,5 @@
 ---
-title: "Northernleopardfrog"
+title: "Northern Leopard Frog"
 date: 2023-05-25T11:40:45-07:00
 showToc: true
 TocOpen: false

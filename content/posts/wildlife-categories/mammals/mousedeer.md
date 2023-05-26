@@ -1,5 +1,5 @@
 ---
-title: "Mousedeer"
+title: "Deer Mouse"
 date: 2023-05-25T11:44:27-07:00
 showToc: true
 TocOpen: false
@@ -29,4 +29,4 @@ Text: "Suggest Changes"
 appendFilePath: true 
 ---
 
-
+* [[1(1): p. 4]]({{< ref "/foodhabitsofthebarnowl.md" >}})

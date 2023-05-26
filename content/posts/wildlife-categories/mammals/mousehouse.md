@@ -1,5 +1,5 @@
 ---
-title: "Mousehouse"
+title: "House Mouse"
 date: 2023-05-25T11:45:07-07:00
 showToc: true
 TocOpen: false
@@ -29,4 +29,5 @@ Text: "Suggest Changes"
 appendFilePath: true 
 ---
 
+* [[1(1): p. 4]]({{< ref "/foodhabitsofthebarnowl.md" >}})
 

@@ -1,5 +1,5 @@
 ---
-title: "Hummingbirdrufous"
+title: "Rufous Hummingbird"
 date: 2023-05-25T11:43:14-07:00
 showToc: true
 TocOpen: false
@@ -29,4 +29,5 @@ Text: "Suggest Changes"
 appendFilePath: true 
 ---
 
+* [[1(1): p. 26]]({{< ref "/britishcolumbiaroundup" >}})
 

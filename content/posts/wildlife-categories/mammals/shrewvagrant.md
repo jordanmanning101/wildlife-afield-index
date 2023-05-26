@@ -1,5 +1,5 @@
 ---
-title: "Shrewvagrant"
+title: "Vagrant Shrew"
 date: 2023-05-25T11:46:18-07:00
 showToc: true
 TocOpen: false
@@ -29,4 +29,5 @@ Text: "Suggest Changes"
 appendFilePath: true 
 ---
 
+* [[1(1): p. 4]]({{< ref "/foodhabitsofthebarnowl.md" >}})
 

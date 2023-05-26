@@ -1,5 +1,5 @@
 ---
-title: "Towheegreentailed"
+title: "Green-tailed Towhee"
 date: 2023-05-25T11:42:46-07:00
 showToc: true
 TocOpen: false

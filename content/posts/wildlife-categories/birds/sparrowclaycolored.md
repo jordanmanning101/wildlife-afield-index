@@ -1,5 +1,5 @@
 ---
-title: "Sparrowclaycolored"
+title: "Clay-colored Sparrow"
 date: 2023-05-25T11:42:26-07:00
 showToc: true
 TocOpen: false

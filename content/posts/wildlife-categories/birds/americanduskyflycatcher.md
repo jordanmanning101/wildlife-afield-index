@@ -1,5 +1,5 @@
 ---
-title: "Americanduskyflycatcher"
+title: "American Dusky Flycatcher"
 date: 2023-05-25T11:42:02-07:00
 showToc: true
 TocOpen: false

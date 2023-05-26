@@ -1,5 +1,5 @@
 ---
-title: "Squirreleasterngray"
+title: "Eastern Gray Squirrel"
 date: 2023-05-25T11:44:57-07:00
 showToc: true
 TocOpen: false
@@ -29,4 +29,4 @@ Text: "Suggest Changes"
 appendFilePath: true 
 ---
 
-
+* [[1(1): p. 19]]({{< ref "/wildlifedatacentrereportjune2008" >}})
