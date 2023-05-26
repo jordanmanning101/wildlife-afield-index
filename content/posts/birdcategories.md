@@ -31,24 +31,20 @@ editPost:
     appendFilePath: true 
 ---
 
+* [Acorn Woodpecker]({{< ref "/acornwoodpecker.md" >}})
+* [American Dusky Flycatcher]({{< ref "/americanduskyflycatcher.md" >}})
 * [Plover, Semipalmated]({{< ref "/ploversemipalmated.md" >}} "Plover, Semipalmated")
-* [Owl, Barn]({{< ref "/owlbarn.md" >}})
+* [Clark’s Nutcracker]({{< ref "/clarksnutcracker.md" >}})
+* [Clay-colored Sparrow]({{< ref "/sparrowclaycolored.md" >}})
+* [Crested Auklet]({{< ref "/crestedauklet.md" >}})
+* [Green-tailed Towhee]({{< ref "/towheegreentailed.md" >}})
+* [Herring Gull]({{< ref "/gullherring.md" >}})
 * [Northern Shrike]({{< ref "/northernshrike.md" >}})
+* [Owl, Barn]({{< ref "/owlbarn.md" >}})
+* [Osprey]({{< ref "/osprey.md" >}})
+* [Rock Wren]({{< ref "/rockwren.md" >}})
+* [Rufous Hummingbird]({{< ref "/hummingbirdrufous.md" >}})
+* [Spotted Owl]({{< ref "/owlspotted.md" >}})
+* [Upland Sandpiper]({{< ref "/uplandsandpiper.md" >}})
+* [Wild Turkey]({{< ref "/wildturkey.md" >}})
 
-Acorn Woodpecker [1(1): P 19];
-American Dusky Flycatcher [1(1): p. 6-7];
-Barn Owl [1(1): p. 3-5];
-Clark’s Nutcracker [1(1): p. 19];
-Clay-colored Sparrow [1(1): p. 19];
-Crested Auklet [1(1): p. 27-28];
-Green-tailed Towhee [1(1): p. 19];
-Herring Gull [1(1): p. 19];
-Northern Shrike [1(1): p. 26-27];
-Osprey [1(1): p. 27];
-Rock Wren [1(1): p. 8-9];
-Rufous Hummingbird [1(1): p. 26];
-Semipalmated Plover [1(1): p. 10-16];
-
-Spotted Owl [1(1): p. 19];
-Upland Sandpiper [1(1): p. 7-8];
-Wild Turkey [1(1): p. 19];

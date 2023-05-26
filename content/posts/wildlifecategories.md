@@ -32,4 +32,6 @@ editPost:
 ---
 
 #### Types of Wildlife:
+* [Amphibians]({{< ref "/amphibiancategories.md" >}})
 * [Birds]({{< ref "/birdcategories.md" >}} "Birds")
+* [Mammals]({{< ref "/mammals.md" >}})

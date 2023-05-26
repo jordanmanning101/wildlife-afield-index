@@ -1,5 +1,5 @@
 ---
-title: "Uplandsandpiper"
+title: "Upland Sandpiper"
 date: 2023-05-25T11:43:34-07:00
 showToc: true
 TocOpen: false
@@ -29,4 +29,4 @@ Text: "Suggest Changes"
 appendFilePath: true 
 ---
 
-
+* [[1(1): p. 7-8]]({{< ref "/uplandsandpiperbreeding" >}})
