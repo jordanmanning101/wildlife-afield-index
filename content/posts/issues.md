@@ -32,7 +32,7 @@ editPost:
 
 #### Issues of Wildlife Afield:
 * [Wildlife Afield 1(1)]({{< ref "/wa1-1.md" >}} "Wildlife Afield 1(1)")
-* Wildlife Afield 1(2)
+* [Wildlife Afield 1(2)]({{< ref "/wa1-2.md" >}})
 * Wildlife Afield 2(1)
 * Wildlife Afield 2(2)
 * Wildlife Afield 3(1)
