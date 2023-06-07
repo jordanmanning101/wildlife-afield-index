@@ -25,7 +25,7 @@ relative: false
 hidden: true
 editPost:
 Text: "Suggest Changes" 
-appendFilePath: true 
+appendFilePath: true
 ---
 
 ### Field Notes and Caring People
