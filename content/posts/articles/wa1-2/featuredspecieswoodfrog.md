@@ -1,5 +1,5 @@
 ---
-title: "Featuredspecieswoodfrog"
+title: "Featured Species - Wood Frog"
 date: 2023-05-30T12:06:36-07:00
 showToc: true
 TocOpen: false
@@ -25,7 +25,11 @@ relative: false
 hidden: true
 editPost:
 Text: "Suggest Changes" 
-appendFilePath: true 
+appendFilePath: true
+tags:
+- r. wayne campbell
+- wood frog
+- featured species
 ---
 
 *R. Wayne Campbell*

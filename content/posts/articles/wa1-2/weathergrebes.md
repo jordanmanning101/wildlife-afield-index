@@ -1,5 +1,5 @@
 ---
-title: "Weathergrebes"
+title: "Weather Influences Parenting Behaviour Among Red-necked Grebes and Western Grebes on Duck Lake, Creston Valley"
 date: 2023-05-30T12:06:23-07:00
 showToc: true
 TocOpen: false
@@ -25,7 +25,15 @@ relative: false
 hidden: true
 editPost:
 Text: "Suggest Changes" 
-appendFilePath: true 
+appendFilePath: true
+tags:
+- linda m. van damme
+- weather
+- parenting
+- red-necked grebes
+- western grebes
+- duck lake
+- creston valley
 ---
 
 *Linda M. Van Damme*

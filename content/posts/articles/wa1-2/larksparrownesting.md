@@ -26,6 +26,11 @@ hidden: true
 editPost:
 Text: "Suggest Changes" 
 appendFilePath: true 
+tags:
+- steve myers
+- lark sparrow
+- peace river
+- nesting
 ---
 
 *Steve Myers*

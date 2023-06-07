@@ -26,6 +26,10 @@ hidden: true
 editPost:
 Text: "Suggest Changes" 
 appendFilePath: true 
+tags:
+- gray wagtail
+- jerry etzkorn
+- janet etzkorn
 ---
 
 *Jerry Etzkorn and Janet Etzkorn*

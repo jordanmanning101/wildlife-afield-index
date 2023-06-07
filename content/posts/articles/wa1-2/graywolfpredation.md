@@ -26,6 +26,12 @@ hidden: true
 editPost:
 Text: "Suggest Changes" 
 appendFilePath: true
+tags:
+- gray wolf
+- trumpeter swans
+- predation
+- chetwynd
+- r. wayne campbell
 ---
 
 *R. Wayne Campbell*
