@@ -2,9 +2,6 @@
 title: "Occurence of the Rock Wren on Vancouver Island and Other Islands in the Strait of Georgia"
 date: 2023-05-11T14:25:23-07:00
 draft: true
-categories: 
- - birds
- - occurences
 tags:
  - rock wren
  - vancouver island

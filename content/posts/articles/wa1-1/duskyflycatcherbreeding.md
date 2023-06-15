@@ -2,9 +2,6 @@
 title: "Dusky Flycatcher Breeding in the Peace River Region of British Columbia"
 date: 2023-05-11T14:24:45-07:00
 draft: true
-categories:
-- birds
-- breeding
 tags:
 - dusky flycatcher
 - peace river

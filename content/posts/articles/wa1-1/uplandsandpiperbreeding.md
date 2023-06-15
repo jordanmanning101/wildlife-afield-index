@@ -2,8 +2,6 @@
 title: "Upland Sandpiper Breeding near Chetwynd, British Columbia"
 date: 2023-05-11T14:25:11-07:00
 draft: true
-categories:
-- breeding
 tags:
 - upland sandpiper
 - chetwynd

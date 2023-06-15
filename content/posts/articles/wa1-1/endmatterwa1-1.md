@@ -2,8 +2,6 @@
 title: "Endmatter WA 1-1"
 date: 2023-05-24T11:38:48-07:00
 draft: true
-categories:
-- endmatter
 showToc: true
 TocOpen: false
 draft: false

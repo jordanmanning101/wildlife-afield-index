@@ -2,8 +2,6 @@
 title: "British Columbia Round-Ups"
 date: 2023-05-22T11:41:28-07:00
 draft: true
-categories:
-- round-ups
 showToc: true
 TocOpen: false
 draft: false

@@ -2,17 +2,6 @@
 title: "Featured Species - Semipalmated Plover"
 date: 2023-05-11T14:26:06-07:00
 draft: true
-categories:
-- birds
-- featured species
-- habitats
-- occurrences
-- breeding
-- annual cycles
-- nests
-- eggs
-- conservation
-- human disturbance
 tags: 
 - plovers
 - semipalmated plover

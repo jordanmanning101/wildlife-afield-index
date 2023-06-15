@@ -2,9 +2,6 @@
 title: "Unsuccessful Introduction of the California Quail to the Queen Charlotte Islands"
 date: 2023-05-11T14:25:46-07:00
 draft: true
-categories:
-- birds
-- species introduction
 tags:
 - california quail
 - queen charlotte islands

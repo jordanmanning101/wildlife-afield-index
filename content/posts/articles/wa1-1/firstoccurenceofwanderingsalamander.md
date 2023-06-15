@@ -2,9 +2,6 @@
 title: "First Occurence of Wandering Salamander on the Sunshine Coast of British Columbia"
 date: 2023-05-11T13:55:24-07:00
 draft: true
-categories:
-- occurences
-- amphibians
 tags:
 - wandering salamander
 - salamanders

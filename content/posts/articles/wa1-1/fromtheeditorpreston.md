@@ -5,8 +5,6 @@ draft: true
 tags: 
 - from the editor
 - michael i. preston
-categories: 
-- articles
 showToc: true
 TocOpen: false
 draft: false

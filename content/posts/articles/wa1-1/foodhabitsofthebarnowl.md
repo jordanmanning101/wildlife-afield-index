@@ -2,9 +2,6 @@
 title: "Food Habits of the Barn Owl in the Southern Interior of British Columbia"
 date: 2023-04-26T21:49:32-07:00
 draft: true
-categories:
-  - birds
-  - food habits
 tags:
   - barn owl
   - southern interior

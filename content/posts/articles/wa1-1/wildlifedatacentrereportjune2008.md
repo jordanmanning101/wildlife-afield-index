@@ -4,8 +4,6 @@ date: 2023-05-11T14:26:30-07:00
 draft: true
 tags: 
 - michael i. preston
-categories:
-- reports
 showToc: true
 TocOpen: false
 draft: false
