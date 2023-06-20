@@ -1,5 +1,5 @@
 ---
-title: "Turnofthetimes"
+title: "A Turn of the Times"
 date: 2023-06-20T13:15:36-07:00
 showToc: true
 TocOpen: false
